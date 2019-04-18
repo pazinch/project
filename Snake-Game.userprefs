@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MovingScript.cs">
+    <Files>
+      <File FileName="..\..\..\..\..\..\Snake\C\Users\pazinch\Desktop\Unity workshop - copy\Snake-Game\Assets\Code\GameLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\MovingScript.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

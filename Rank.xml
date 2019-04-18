@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<Rank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scores>
+    <int>11</int>
+    <int>7</int>
+    <int>7</int>
+    <int>5</int>
+    <int>9</int>
+    <int>16</int>
+  </scores>
+  <names>
+    <string>first</string>
+    <string>xyz</string>
+    <string>eee</string>
+    <string>dsadadads</string>
+    <string>x</string>
+    <string>ef</string>
+  </names>
+  <currentScore>7</currentScore>
+</Rank>
